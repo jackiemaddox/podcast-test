@@ -1,3 +1,14 @@
+# For Github Actions
+
+The main purpose of this pod-cast repo is to test Github Actions that allow us to create our own workflows and create our own generators.
+
+We started by creating the podcast, feed.py file, and then made our own workflows.
+
+This is also to demonstrate the use of branches to make changes on github repos.
+
+Below is the README file for the fake podcast we are creating.
+
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
